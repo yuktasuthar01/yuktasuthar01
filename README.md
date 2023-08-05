@@ -26,7 +26,7 @@ education:
   [
     "Bachelor's in Computer Engineering ",
   ]
-company: Simform Solution's
+company: Simform Solutions
 
 fields_of_interests:
   [
